@@ -6,4 +6,9 @@
 # Machine Learning with Pytorch and Scikit learn
 
 
-Progress on the book machine learning with pytorch and scikit-learn
+## [Capitulo 2](/capitulo%202%20-%20treinando%20um%20simples%20algoritmo%20de%20ML%20classificacao/)
+* Nele é ensinado conceitos básicos de aprendizado supervisionado de classifição, mostrando um modelo simples (perceptron) até a regressão logistica
+  * perceptron 
+  * adaline
+  * logistic
+  
